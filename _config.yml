@@ -10,13 +10,13 @@ keywords:
   - Linux
   - 嵌入式
   - 系统安全
-author: Woohoo Ren
+author: Derek Ren
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ren-woohoo.github.io
+url: https://derekren1024.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,5 +105,5 @@ theme: light-cn
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:ren-woohoo/ren-woohoo.github.io.git
+  repo: git@github.com:derekren1024/derekren1024.github.io.git
   branch: main
